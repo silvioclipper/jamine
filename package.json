@@ -1,0 +1,23 @@
+{
+  "name": "jasmine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silvioclipper/jamine.git"
+  },
+  "keywords": [],
+  "author": "Silviclipper <silvioclipper@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/silvioclipper/jamine/issues"
+  },
+  "homepage": "https://github.com/silvioclipper/jamine#readme",
+  "devDependencies": {
+    "jasmine": "^3.7.0"
+  }
+}
